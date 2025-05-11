@@ -13,25 +13,25 @@
 
 ## 👨‍💼 About Me
 
-I am an **Electrical Engineer** with a strong focus on **analog circuit design**, **embedded microcontroller programming**, and **sensor‑based systems**. My professional interests span from crafting low‑noise signal chains for hydrophones to writing real‑time C firmware that squeezes every microamp out of ARM Cortex‑M MCUs. If it involves **op‑amps, ADCs, or stray microvolts**, I’m probably tinkering with it.
+I am an **Electrical Engineer** with a strong focus on **analog circuit design**, **embedded microcontroller programming**, and **sensor‑based systems**. My professional interests span from designing ultra-low-noise analog signal circuitry to writing real‑time C firmware to push the limits of microcontroller performance and efficiency. If it involves **op‑amps, ADCs, or high frequencies**, I’m probably tinkering with it.
 
-* 🔌 **Current role:** Senior year E.E. student & freelance embedded consultant
+* 🔌 **Current role:** Senior year E.E. student
 * 🎓 **Education:** B.S. Electrical Engineering (in progress, Spring 2026)
 * 🛠 **Core strengths:**
 
-  * Precision **analog front‑end** design (µV‑level)
+  * Precision **analog front‑end** design
   * **Mixed‑signal PCB** layout & EMI/EMC mitigation
-  * **Real‑time DSP** on constrained MCUs (Goertzel, FFT, MUSIC)
-  * Rapid **prototyping** with STM32, ESP32, and AVR platforms
+  * **Real‑time Digital Signal Processing** on constrained MCUs (Goertzel, FFT, MUSIC)
+  * Reliable **prototyping** with STM32, ESP32, and Arduino platforms
   * **C/C++** & **Python** for firmware, tooling, and test automation
 * 🌱 **Learning now:** mmWave radar, FOC motor control, and rust‑embedded
-* 🧰 **Toolbox:** LTspice, Cadence Capture/Allegro, KiCad, VS Code, PlatformIO, Git
+* 🧰 **Toolbox:** LTspice, Cadence Capture/Allegro, KiCad, VS Code, Git, Excel
 
 <details>
 <summary>Click to read my engineering philosophy</summary>
 
 > **“Measure twice, filter once.”**
-> I believe great hardware starts with understanding the physics—charge, noise, and bandwidth—and great firmware starts with deterministic state machines. I design with manufacturability, testability, and **clarity of intent** top‑of‑mind.
+> I believe good engineering starts with understanding the physics behind the circuitry and the fundamentals behind the system. I design with clarity, purpose, and testability.
 
 </details>
 
@@ -43,8 +43,7 @@ I am an **Electrical Engineer** with a strong focus on **analog circuit design**
 | --------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | **Autonomous Life Raft**          | Self‑navigating rescue craft that locks onto 5–8 kHz acoustic beacons.                   | Hydrophone array, Goertzel & MUSIC AOAs, STM32L4, Kalman filter navigation, RF telemetry |
 | **SSTC‑2 Solid‑State Tesla Coil** | High‑Q resonator driven by UCC27425 with feedback‑based self‑oscillation.                | IGBT half‑bridge, differential probe design, PWM interrupter (ATtiny85)                  |
-| **Two‑Mic DOA Module**            | ‑90° ↔ +90° audio angle sensor using MAX4466 preamps & one‑bin DFT on Arduino R4 Minima. | Analog front‑end, fixed‑point DSP, circular buffer DMA                                   |
-| **Laser Piano**                   | 8‑beam optical harp that maps broken IR beams to MIDI over BLE.                          | ESP32‑S3, FreeRTOS, MCP23017 expander, Synth‑VST bridge                                  |
+| **Two‑Mic DOA Module**            | ‑90° ↔ +90° audio angle sensor using MAX4466 preamps & one‑bin DFT on Arduino R4 Minima. | Analog front‑end, fixed‑point DSP, circular buffer DMA                                                            |
 
 *Explore all repositories →* **[github.com/ChrisWitsken?tab=repositories](https://github.com/ChrisWitsken?tab=repositories)**
 
@@ -54,19 +53,19 @@ I am an **Electrical Engineer** with a strong focus on **analog circuit design**
 
 | Category      | Tools & Frameworks                                                         |
 | ------------- | -------------------------------------------------------------------------- |
-| **Languages** | C, C++, Python, MATLAB, Bash                                               |
-| **MCUs**      | STM32 (HAL/LL), ESP32 (ESP‑IDF, Arduino‑core), AVR, Arduino Uno R4, RP2040 |
-| **EDA**       | Cadence OrCAD/Allegro, KiCad, LTspice, Altium 365 viewer                   |
+| **Languages** | C, C++, Python, MATLAB                                                     |
+| **MCUs**      | ESP32, Arduino Uno R4 Minima, STM32, Raspberry Pi 5                        |
+| **EDA**       | Cadence OrCAD/Allegro, KiCad, LTspice, Altium 365                          |
 | **Testing**   | Siglent SDS2104X Plus, Keysight 34465A, Tektronix AFG31000, Saleae Logic 8 |
-| **Collab**    | Git, GitHub Actions CI, Doxygen, Sphinx, MkDocs                            |
+| **Collab**    | Git, SCRUM, Jira, Block-Diagram Master                                     |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisWitsken&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisWitsken&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Childabeast&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Childabeast&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -74,8 +73,7 @@ I am an **Electrical Engineer** with a strong focus on **analog circuit design**
 ## 📝 Recent Writing
 
 * “Designing LC Filters for <1 µV RMS Noise Rails” – in progress
-* “Phase‑Coherent Angle of Arrival on an 8‑bit AVR” – *Hackaday.io*
-* “Debugging High‑Side Current Shunts with Thermal Drift” – *LinkedIn Articles*
+* “Debugging High‑Side Current Shunts with Thermal Drift” – in progress
 
 ---
 
@@ -83,10 +81,10 @@ I am an **Electrical Engineer** with a strong focus on **analog circuit design**
 
 * **LinkedIn:** [linkedin.com/in/chris‑witsken](https://linkedin.com/in/chris-witsken)
 * **Twitter / X:** [@Chris\_Circuits](https://twitter.com/Chris_Circuits)
-* **Email:** `chris.witsken [at] proton.me`
+* **Email:** `chriswitsken@gmail.com`
 
 ---
 
 <p align="center">
-  <em>“Analog is an art, digital is a science—great embedded systems master both.”</em>
+  <em>“Analog is an art, digital is a science. — Great embedded systems master both.”</em>
 </p>
