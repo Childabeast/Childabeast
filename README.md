@@ -45,8 +45,6 @@ I am an **Electrical Engineer** with a strong focus on **analog circuit design**
 | **SSTC‑2 Solid‑State Tesla Coil** | High‑Q resonator driven by UCC27425 with feedback‑based self‑oscillation.                | IGBT half‑bridge, differential probe design, PWM interrupter (ATtiny85)                  |
 | **Two‑Mic DOA Module**            | ‑90° ↔ +90° audio angle sensor using MAX4466 preamps & one‑bin DFT on Arduino R4 Minima. | Analog front‑end, fixed‑point DSP, circular buffer DMA                                                            |
 
-*Explore all repositories →* **[github.com/ChrisWitsken?tab=repositories](https://github.com/ChrisWitsken?tab=repositories)**
-
 ---
 
 ## 🧑🏻‍💻 Tech Stack
